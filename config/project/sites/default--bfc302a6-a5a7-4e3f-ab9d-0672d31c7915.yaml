@@ -1,0 +1,9 @@
+baseUrl: 'http://cms.techwithtwin.com/'
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: TWT
+primary: true
+siteGroup: dd6aabf7-15d0-48a1-a6a9-4e37d00285a8 # TWT
+sortOrder: 1

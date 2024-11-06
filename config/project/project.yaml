@@ -1,0 +1,25 @@
+dateModified: 1730883064
+email:
+  fromEmail: techwithtwin@gmail.com
+  fromName: TWT
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    69f55018-a784-4546-95bb-fff3b932bc02: Homepage # Homepage
+    0805dbe3-d966-428f-baee-8f880aa9bb81: 'Public Schema' # Public Schema
+    70755e92-2486-4df5-bfa2-b895feecb6af: Oya # Oya
+    bfc302a6-a5a7-4e3f-ab9d-0672d31c7915: TWT # TWT
+    dd6aabf7-15d0-48a1-a6a9-4e37d00285a8: TWT # TWT
+system:
+  edition: enterprise
+  live: true
+  name: TWT
+  schemaVersion: 5.3.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
